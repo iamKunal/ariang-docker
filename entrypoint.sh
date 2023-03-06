@@ -2,7 +2,7 @@
 
 set -x
 
-ariang_js_path=/usr/local/www/ariang/js/aria-ng*.js
+ariang_js_path=/AriaNg/js/aria-ng*.js
 
 
 
