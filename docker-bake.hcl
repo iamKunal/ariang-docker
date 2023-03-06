@@ -28,5 +28,6 @@ target "ariang" {
   ]
   labels = {
     changes = "${GIT_COMMIT_MESSAGE}"
+    git_sha = "${GIT_SHA}"
   }
 }
