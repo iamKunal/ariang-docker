@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-set -x
 
 ariang_js_path=/AriaNg/js/aria-ng*.js
 
